@@ -6,7 +6,7 @@ We help applicants uncover their strengths, passions and talents, while giving o
 
 🛠️ Stack? Whatever the job needs: TypeScript, Rust, PHP/Laravel, Nix.
 
-🌍 Big believer in open source: I contribute upstream and build in the open wherever I can.
+🌍 Big believer in open source.
 
 🛡️ Listed in the [BSI CVD Hall of Fame](https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/IT-Schwachstellen/Hall_of_Fame/Hall_of_Fame_node.html) for 5 coordinated vulnerability disclosures.
 
